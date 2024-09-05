@@ -1,0 +1,49 @@
+[
+    {
+        "Description": "Colorschemes aggregator",
+        "Name": "colorschemes",
+        "Tags": [
+            "colorscheme",
+            "color",
+            "theme"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/colorschemes/archive/v0.2.0.zip",
+                "Version": "0.2.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/colorschemes/archive/v0.1.2.zip",
+                "Version": "0.1.2"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/colorschemes/archive/v0.1.1.zip",
+                "Version": "0.1.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/colorschemes/archive/v0.1.0.zip",
+                "Version": "0.1.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/colorschemes/archive/v0.0.1.zip",
+                "Version": "0.0.1"
+            }
+        ],
+        "Website": "https://codeberg.org/micro-plugins/manager/colorschemes"
+    }
+]

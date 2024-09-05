@@ -1,0 +1,6 @@
+{
+    "colorscheme": "nightfly-tc",
+    "pluginrepos": [
+        "https://codeberg.org/micro-plugins/colorschemes/raw/branch/main/repo.json"
+    ]
+}

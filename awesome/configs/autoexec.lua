@@ -1,0 +1,11 @@
+local awful = require("awful")
+awful.spawn.with_shell("pkill picom")
+awful.spawn.with_shell("pkill dunst")
+awful.spawn.with_shell("pkill flameshot")
+awful.spawn.with_shell("pkill nm-applet")
+
+awful.spawn.with_shell("nitrogen --restore &") 
+awful.spawn.with_shell("picom &")
+awful.spawn.with_shell("dunst &")
+awful.spawn.with_shell("nm-applet &")
+awful.spawn.with_shell("/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &")
